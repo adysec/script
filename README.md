@@ -28,6 +28,7 @@ bash <(curl -Lso- https://raw.githubusercontent.com/uxh/superspeed/master/supers
 ## 线路测试
 
 ```
+curl https://raw.githubusercontent.com/zhanghanyun/backtrace/main/install.sh -sSf | sh
 bash <(curl -Lso- https://raw.githubusercontent.com/flyzy2005/shell/master/autoBestTrace.sh)
 bash <(curl -Lso- https://raw.githubusercontent.com/nanqinlang-script/testrace/master/testrace.sh)
 ```
